@@ -71,7 +71,7 @@ Y29uZmk6ZGVudGlhbA== is a base64
 ```
 You will have to decode it on {https://www.base64decode.org/}
 
-# Authentification twitter
+# Authentification - twitter
 #### State: 
 A twitter authentication session was captured. Find the user's password in this network capture. You will have to decode it on
 
